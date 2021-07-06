@@ -81,3 +81,23 @@ h2{
     margin: 0;
     padding: 0 100px;
 }
+.Contact{
+    text-align: center;
+    margin-top: 100px;
+}
+#contact-info{
+    margin: 0 30%;
+}
+#contact-info img{
+    height: 70%;
+    width: 70%;
+}
+
+
+.footer-part{
+    margin-top: 100px;
+    color: white;
+    background-color: #01011a;
+    text-align: center;
+    padding: 20px 0 90px 0;
+}
