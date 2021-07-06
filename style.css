@@ -5,7 +5,10 @@ body{
 h1{
     font-size: 50px;
 }
-.recipies-item{
+h2{
+    font-size: 30px;
+}
+.flexible-item{
     display: flex;
     margin-bottom: 100px;
     text-align: justify;
@@ -61,4 +64,20 @@ h1{
 .mr-top{
     text-align: center;
     margin: 0 30%;
+}
+.optional{
+    border: 15px solid white;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gray;
+    margin: 0 5%;
+}
+.optional-box{
+    width: 70%;
+    margin: 0 auto;
+    padding-top: 10px;
+    text-align: center;  
+}
+#optional-part{
+    margin: 0;
+    padding: 0 100px;
 }
